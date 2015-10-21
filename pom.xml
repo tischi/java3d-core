@@ -24,6 +24,13 @@
 		</developer>
 	</developers>
 
+	<scm>
+		<connection>scm:git:git://github.com/scijava/java3d-core</connection>
+		<developerConnection>scm:git:git@github.com:scijava/java3d-core</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/scijava/java3d-core</url>
+	</scm>
+
 	<properties>
 		<jogl.version>2.3.0</jogl.version>
 
