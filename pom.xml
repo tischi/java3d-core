@@ -4,7 +4,7 @@
 
 	<groupId>org.scijava</groupId>
 	<artifactId>j3dcore</artifactId>
-	<version>1.6.0-scijava-1-SNAPSHOT</version>
+	<version>1.6.0-scijava-2-SNAPSHOT</version>
 
 	<name>Java 3D Core</name>
 	<description>3D Graphics API for the Java Platform</description>
@@ -39,10 +39,10 @@
 		<!-- NB: Token values for filtering VersionInfo.java. -->
 		<version_base>1.6.0</version_base>
 		<build.spec.title>${project.name}</build.spec.title>
-		<build.spec.vendor></build.spec.vendor>
+		<build.spec.vendor />
 		<build.impl.title>${project.name}</build.impl.title>
-		<build.impl.vendor></build.impl.vendor>
-		<build.impl.vendor.id></build.impl.vendor.id>
+		<build.impl.vendor />
+		<build.impl.vendor.id />
 		<build.type>daily</build.type>
 		<buildtime>daily</buildtime>
 		<buildtime_verbose>daily</buildtime_verbose>
