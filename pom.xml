@@ -6,7 +6,9 @@
 	<artifactId>j3dcore</artifactId>
 	<version>1.6.0-scijava-1-SNAPSHOT</version>
 
-	<name>3D Graphics API for the Java Platform</name>
+	<name>Java 3D Core</name>
+	<description>3D Graphics API for the Java Platform</description>
+	<url>https://github.com/scijava/java3d-core</url>
 
 	<licenses>
 		<license>
