@@ -10,6 +10,9 @@ This is a temporary fork, until the upstream project accepts
 [hharrison/java3d-core#19](https://github.com/hharrison/java3d-core/pull/19) and
 [follow-up patches](https://github.com/hharrison/java3d-core/compare/master...ctrueden:maven).
 
+See also [hharrison/java3d-core#14](https://github.com/hharrison/java3d-core/issues/14),
+"Publish versions to Maven Repository."
+
 ## How to use it
 
 To use from your Maven project, add the following dependency to your POM:
