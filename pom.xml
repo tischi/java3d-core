@@ -4,7 +4,7 @@
 
 	<groupId>org.scijava</groupId>
 	<artifactId>j3dcore</artifactId>
-	<version>1.6.0-scijava-2-SNAPSHOT</version>
+	<version>1.6.0-scijava-2</version>
 
 	<name>Java 3D Core</name>
 	<description>3D Graphics API for the Java Platform</description>
@@ -36,7 +36,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/scijava/java3d-core</connection>
 		<developerConnection>scm:git:git@github.com:scijava/java3d-core</developerConnection>
-		<tag>HEAD</tag>
+		<tag>j3dcore-1.6.0-scijava-2</tag>
 		<url>https://github.com/scijava/java3d-core</url>
 	</scm>
 
