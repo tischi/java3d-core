@@ -28,7 +28,7 @@ package org.scijava.java3d;
 
 import java.util.ArrayList;
 
-import javax.vecmath.Color3f;
+import org.scijava.vecmath.Color3f;
 
 /**
  * The LinearFog leaf node defines distance parameters for

@@ -28,7 +28,7 @@ package org.scijava.java3d;
 
 import java.util.ArrayList;
 
-import javax.vecmath.Point3d;
+import org.scijava.vecmath.Point3d;
 
 /**
  * ViewPlatform object (retained side)

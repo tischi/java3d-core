@@ -28,13 +28,13 @@ package org.scijava.java3d;
 
 import java.awt.Rectangle;
 
-import javax.vecmath.Matrix4d;
-import javax.vecmath.Point2d;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
-import javax.vecmath.SingularMatrixException;
-import javax.vecmath.Vector3d;
-import javax.vecmath.Vector4d;
+import org.scijava.vecmath.Matrix4d;
+import org.scijava.vecmath.Point2d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
+import org.scijava.vecmath.SingularMatrixException;
+import org.scijava.vecmath.Vector3d;
+import org.scijava.vecmath.Vector4d;
 
 /**
  * The CanvasViewCache class is used to cache all data, both API data

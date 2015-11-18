@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point3f;
+import org.scijava.vecmath.Point3f;
 
 /**
  * A Text3D object is a text string that has been converted to 3D

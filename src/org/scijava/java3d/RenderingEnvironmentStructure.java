@@ -30,7 +30,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-import javax.vecmath.Vector3d;
+import org.scijava.vecmath.Vector3d;
 
 /**
  * A rendering environment structure is an object that organizes lights,

@@ -26,8 +26,8 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
 
 /**
  * PickPoint is a pick shape defined as a single point.  It can

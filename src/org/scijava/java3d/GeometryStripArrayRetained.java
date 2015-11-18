@@ -29,8 +29,8 @@ package org.scijava.java3d;
 import java.nio.FloatBuffer;
 import java.util.ArrayList;
 
-import javax.vecmath.TexCoord2f;
-import javax.vecmath.TexCoord3f;
+import org.scijava.vecmath.TexCoord2f;
+import org.scijava.vecmath.TexCoord3f;
 
 
 /**

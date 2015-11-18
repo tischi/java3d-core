@@ -26,8 +26,8 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Matrix3d;
-import javax.vecmath.Point3d;
+import org.scijava.vecmath.Matrix3d;
+import org.scijava.vecmath.Point3d;
 
 /**
  * The Sensor Class encapsulates an object that provides real-time

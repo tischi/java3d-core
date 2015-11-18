@@ -40,9 +40,9 @@ import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.ServiceLoader;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
-import javax.vecmath.Vector3f;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Vector3f;
 
 /**
  * The Font3D object is used to store extruded 2D glyphs.  These

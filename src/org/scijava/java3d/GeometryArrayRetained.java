@@ -35,21 +35,21 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import javax.vecmath.Color3b;
-import javax.vecmath.Color3f;
-import javax.vecmath.Color4b;
-import javax.vecmath.Color4f;
-import javax.vecmath.Point2d;
-import javax.vecmath.Point2f;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
-import javax.vecmath.Point4d;
-import javax.vecmath.Point4f;
-import javax.vecmath.TexCoord2f;
-import javax.vecmath.TexCoord3f;
-import javax.vecmath.TexCoord4f;
-import javax.vecmath.Vector3d;
-import javax.vecmath.Vector3f;
+import org.scijava.vecmath.Color3b;
+import org.scijava.vecmath.Color3f;
+import org.scijava.vecmath.Color4b;
+import org.scijava.vecmath.Color4f;
+import org.scijava.vecmath.Point2d;
+import org.scijava.vecmath.Point2f;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Point4d;
+import org.scijava.vecmath.Point4f;
+import org.scijava.vecmath.TexCoord2f;
+import org.scijava.vecmath.TexCoord3f;
+import org.scijava.vecmath.TexCoord4f;
+import org.scijava.vecmath.Vector3d;
+import org.scijava.vecmath.Vector3f;
 
 
 /**

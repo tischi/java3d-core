@@ -29,8 +29,8 @@ package org.scijava.java3d;
 import java.util.ArrayList;
 import java.util.Vector;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
 
 /**
  * The PickInfo object contains the computed information about a pick hit.

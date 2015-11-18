@@ -27,9 +27,9 @@
 package org.scijava.java3d;
 import java.util.ArrayList;
 
-import javax.vecmath.Color4f;
-import javax.vecmath.Point3f;
-import javax.vecmath.Vector3f;
+import org.scijava.vecmath.Color4f;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Vector3f;
 
 /**
  * This class implements a Shape3D backend for the abstract

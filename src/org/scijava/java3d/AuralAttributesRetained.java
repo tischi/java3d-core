@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point2f;
+import org.scijava.vecmath.Point2f;
 
 /**
  * The AuralAttributesRetained object defines all rendering state that can

@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Color3f;
+import org.scijava.vecmath.Color3f;
 
 /**
  * The ColoringAttributes object defines attributes used in

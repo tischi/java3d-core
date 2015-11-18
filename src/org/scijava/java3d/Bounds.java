@@ -26,11 +26,11 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Matrix3d;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
-import javax.vecmath.Vector3d;
-import javax.vecmath.Vector4d;
+import org.scijava.vecmath.Matrix3d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
+import org.scijava.vecmath.Vector3d;
+import org.scijava.vecmath.Vector4d;
 
 /**
  * The abstract base class for bounds objects.  Bounds objects define
@@ -471,7 +471,7 @@ public abstract void getCenter(Point3d center);
 		    delta.normalize();
 		    System.err.println("p->n direction: " + delta);
 		    Matrix3d hMatrix = new Matrix3d();
-		    // check using the the javax.vecmath routine
+		    // check using the the org.scijava.vecmath routine
 		    hMatrix.m00 = h11;
 		    hMatrix.m01 = h12;
 		    hMatrix.m02 = h13;

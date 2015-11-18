@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Quat4f;
+import org.scijava.vecmath.Quat4f;
 
 
 /**

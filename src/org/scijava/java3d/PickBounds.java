@@ -26,8 +26,8 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
 
 /**
  * PickBounds is a finite pick shape defined with a Bounds object.  It can

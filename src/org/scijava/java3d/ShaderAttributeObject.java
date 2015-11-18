@@ -127,8 +127,8 @@ public abstract class ShaderAttributeObject extends ShaderAttribute {
      * This class will always be one of the allowable classes, even if
      * a subclass was used to construct this shader attribute object.
      * For example, if this shader attribute object was constructed
-     * with an instance of <code>javax.vecmath.Point3f</code>, the
-     * returned class would be <code>javax.vecmath.Tuple3f</code>.
+     * with an instance of <code>org.scijava.vecmath.Point3f</code>, the
+     * returned class would be <code>org.scijava.vecmath.Tuple3f</code>.
      *
      * @return the base class of the value of this shader attribute
      *

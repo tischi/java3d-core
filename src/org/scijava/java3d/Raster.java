@@ -29,7 +29,7 @@ package org.scijava.java3d;
 import java.awt.Dimension;
 import java.awt.Point;
 
-import javax.vecmath.Point3f;
+import org.scijava.vecmath.Point3f;
 
 
 /**

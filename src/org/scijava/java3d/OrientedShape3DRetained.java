@@ -26,12 +26,12 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.AxisAngle4d;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
-import javax.vecmath.Vector3d;
-import javax.vecmath.Vector3f;
-import javax.vecmath.Vector4d;
+import org.scijava.vecmath.AxisAngle4d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Vector3d;
+import org.scijava.vecmath.Vector3f;
+import org.scijava.vecmath.Vector4d;
 
 class OrientedShape3DRetained extends Shape3DRetained {
 

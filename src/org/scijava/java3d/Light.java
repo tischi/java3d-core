@@ -28,7 +28,7 @@ package org.scijava.java3d;
 
 import java.util.Enumeration;
 
-import javax.vecmath.Color3f;
+import org.scijava.vecmath.Color3f;
 
 /**
  * The Light leaf node is an abstract class that defines a set of

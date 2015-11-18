@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Vector3f;
+import org.scijava.vecmath.Vector3f;
 
 /**
  * An infinite directional light source object.

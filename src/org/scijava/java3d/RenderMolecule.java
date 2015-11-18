@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Vector3d;
+import org.scijava.vecmath.Vector3d;
 
 /**
  * The RenderMolecule manages a collection of RenderAtoms.

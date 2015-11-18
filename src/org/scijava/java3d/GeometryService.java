@@ -3,7 +3,7 @@ package org.scijava.java3d;
 
 import java.util.ArrayList;
 
-import javax.vecmath.Point3f;
+import org.scijava.vecmath.Point3f;
 
 /**
  * A service interface for certain geometric operations that are not available

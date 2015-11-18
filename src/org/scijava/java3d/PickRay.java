@@ -26,9 +26,9 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
-import javax.vecmath.Vector3d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
+import org.scijava.vecmath.Vector3d;
 
 /**
  * PickRay is an infinite ray pick shape.  It can

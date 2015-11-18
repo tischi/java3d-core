@@ -30,11 +30,11 @@ import java.awt.Dimension;
 import java.awt.Point;
 import java.util.ArrayList;
 
-import javax.vecmath.Point2d;
-import javax.vecmath.Point2i;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
-import javax.vecmath.Point4d;
+import org.scijava.vecmath.Point2d;
+import org.scijava.vecmath.Point2i;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Point4d;
 
 /**
  * A Retained Raster.

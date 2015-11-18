@@ -25,7 +25,7 @@
  */
 
 package org.scijava.java3d ;
-import javax.vecmath.Point3d;
+import org.scijava.vecmath.Point3d;
 
 /**
  * The compressed geometry object is used to store geometry in a

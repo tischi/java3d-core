@@ -28,7 +28,7 @@ package org.scijava.java3d;
 
 import java.util.Enumeration;
 
-import javax.vecmath.Color3f;
+import org.scijava.vecmath.Color3f;
 
 /**
  * The Fog leaf node defines a set of fog parameters common to all

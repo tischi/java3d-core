@@ -29,7 +29,7 @@ import java.awt.Shape;
 import java.awt.geom.PathIterator;
 import java.util.ArrayList;
 
-import javax.vecmath.Point2f;
+import org.scijava.vecmath.Point2f;
 
     /**
      * The FontExtrusion object is used to describe the extrusion path

@@ -33,8 +33,8 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Vector;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
 
 /**
  * The View object contains all parameters needed in rendering a

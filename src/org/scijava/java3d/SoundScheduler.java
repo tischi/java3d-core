@@ -34,11 +34,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Enumeration;
 
-import javax.vecmath.Point2f;
-import javax.vecmath.Point3d;
-import javax.vecmath.Point3f;
-import javax.vecmath.Vector3d;
-import javax.vecmath.Vector3f;
+import org.scijava.vecmath.Point2f;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Vector3d;
+import org.scijava.vecmath.Vector3f;
 
 /**
  * This structure parallels the RenderBin structure and

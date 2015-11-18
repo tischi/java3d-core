@@ -26,7 +26,7 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Color4f;
+import org.scijava.vecmath.Color4f;
 
 /**
  * The TextureAttributes object defines attributes that apply to

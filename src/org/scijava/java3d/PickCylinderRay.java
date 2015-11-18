@@ -26,9 +26,9 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Point3d;
-import javax.vecmath.Point4d;
-import javax.vecmath.Vector3d;
+import org.scijava.vecmath.Point3d;
+import org.scijava.vecmath.Point4d;
+import org.scijava.vecmath.Vector3d;
 
 /**
  * PickCylinderRay is an infinite cylindrical ray pick shape.  It can

@@ -26,20 +26,20 @@
 
 package org.scijava.java3d;
 
-import javax.vecmath.Matrix3f;
-import javax.vecmath.Matrix4f;
-import javax.vecmath.Point2f;
-import javax.vecmath.Point2i;
-import javax.vecmath.Point3f;
-import javax.vecmath.Point3i;
-import javax.vecmath.Point4f;
-import javax.vecmath.Point4i;
-import javax.vecmath.Tuple2f;
-import javax.vecmath.Tuple2i;
-import javax.vecmath.Tuple3f;
-import javax.vecmath.Tuple3i;
-import javax.vecmath.Tuple4f;
-import javax.vecmath.Tuple4i;
+import org.scijava.vecmath.Matrix3f;
+import org.scijava.vecmath.Matrix4f;
+import org.scijava.vecmath.Point2f;
+import org.scijava.vecmath.Point2i;
+import org.scijava.vecmath.Point3f;
+import org.scijava.vecmath.Point3i;
+import org.scijava.vecmath.Point4f;
+import org.scijava.vecmath.Point4i;
+import org.scijava.vecmath.Tuple2f;
+import org.scijava.vecmath.Tuple2i;
+import org.scijava.vecmath.Tuple3f;
+import org.scijava.vecmath.Tuple3i;
+import org.scijava.vecmath.Tuple4f;
+import org.scijava.vecmath.Tuple4i;
 
 /**
  * The ShaderAttributeArray object encapsulates a uniform shader
