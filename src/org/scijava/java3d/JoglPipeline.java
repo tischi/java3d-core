@@ -129,7 +129,10 @@ class JoglPipeline extends Pipeline {
         // Java3D maintains strict control over which threads perform OpenGL work
         Threading.disableSingleThreading();
 
-        profile = GLProfile.getMaxFixedFunc(true);
+        // HACK: See:
+        // http://forum.jogamp.org/Java-3D-crash-or-flickering-tp4035074p4036787.html
+        profile = GLProfile.getGL2ES1();
+        //profile = GLProfile.getMaxFixedFunc(true);
         // TODO: finish this with any other needed initialization
     }
 
