@@ -233,8 +233,8 @@ ArrayList<Integer> viewIdFreeList = new ArrayList<Integer>();
             if (isLoggableConfig) {
                 logger.config(str);
             } else {
-                System.err.println(str);
-                System.err.println();
+                System.out.println(str);
+                System.out.println();
             }
 	}
 
