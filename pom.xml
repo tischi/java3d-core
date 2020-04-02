@@ -4,7 +4,7 @@
 
 	<groupId>org.scijava</groupId>
 	<artifactId>j3dcore</artifactId>
-	<version>1.6.0-scijava-3-SNAPSHOT</version>
+	<version>1.6.0-scijava-3-platybrowser</version>
 
 	<name>Java 3D Core</name>
 	<description>3D Graphics API for the Java Platform</description>
@@ -17,6 +17,14 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+
+	<distributionManagement>
+		<repository>
+			<id>bintray-tischi-snapshots</id>
+			<name>tischi-snapshots</name>
+			<url>https://api.bintray.com/maven/tischi/snapshots/j3dcore/;publish=1</url>
+		</repository>
+	</distributionManagement>
 
 	<developers>
 		<developer>
